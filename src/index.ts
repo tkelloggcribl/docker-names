@@ -905,7 +905,7 @@ export const right = [
     "raher",      // Abe Raher        - Sr Technical Writer
     "ramanathan", // Bharath Ram Ramanathan - Sr Product Marketing Mgr
     "rattana",    // Drew Rattana     - Sr Software Engineer
-    "reed",       // Erin Reed        - Sr Site Reliability Engineer
+    "reed",       // Adaléa Reed      - Staff Site Reliability Engineer
     "rivendell",  // Will Rivendell   - Sr. Software Engineer
     "rochette",   // Donn Rochette    - Principal Software Engineer
     "romano",     // Gonzalo Romano   - Sr Software Engineer
