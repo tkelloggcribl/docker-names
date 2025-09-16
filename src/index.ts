@@ -857,6 +857,7 @@ export const right = [
     "kanson",     // Dylan Kanson     - Business Development Rep
     "katz",       // Michael Katz     - Sr Tech Writer
                   // Eugene Katz      - Sr Professional Services Consultant
+    "kellogg",    // Tim Kellogg      - Sr Site Reliability Engineer
     "krueger",    // Brian Krueger    - Sr Software Engineer
     "kulkarni",   // Chinmay Kulkarni - Principal Software Engineer
     "laarits",    // Franky Laarits   - Sr Technical Support Engineer
